@@ -1,4 +1,4 @@
-# Quant-Finance-UCLA-
+# Quant-Finance-UCLA-MFE
 
 Included within are some of the more interesting projects that I have worked on during my Masters in Financial Engineering courses at UCLA.
 
